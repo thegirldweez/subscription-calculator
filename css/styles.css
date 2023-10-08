@@ -12,7 +12,7 @@ body {
   align-items: center;
   padding: 3em 0;
   height: 100vh;
-  background: url("img/confetti.jpg");
+  background: url("../img/bay-bridge.jpg");
   background-size: cover;
   font-family: "Cabin", sans-serif;
   font-size: 16px;
@@ -29,8 +29,9 @@ body {
   max-width: 800px;
   max-height: 700px;
   padding: 0 1em;
-  background-color: rgb(13, 72, 95);
+  background-color: rgb(161, 199, 197);
   color: white;
+  border-radius: 2%;
 }
 
 h1 {
@@ -71,7 +72,7 @@ select#months {
   width: 80%;
   padding: 1.5em 0;
   margin: 2em 0;
-  border: 4px solid rgb(89, 241, 228);
+  border: 4px solid rgb(93, 172, 165);
   font-size: 1.2em;
   text-align: center;
 }
@@ -84,10 +85,10 @@ footer {
   width: 100%;
   padding-top: 2em;
   text-align: center;
-  color: #292929;
+  color: #eee;
 }
 footer a {
-  color: #292929;
+  color: #eee;
 }
 
 @media screen and (min-width: 760px) {
